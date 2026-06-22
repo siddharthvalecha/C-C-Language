@@ -13,3 +13,5 @@ using C and C++ for coding interviews.
 - Recursion
 - STL
 - OOP
+- With a normal learning purpose project
+- 
