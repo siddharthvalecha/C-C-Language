@@ -14,4 +14,4 @@ using C and C++ for coding interviews.
 - STL
 - OOP
 - With a normal learning purpose project
-- 
+- And learning the basics
